@@ -3965,6 +3965,12 @@ td:last-child {
     position: relative;
 }
 
+.folio-entries .entry__thumb img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
 .folio-entries .entry__link {
     display : block;
     position: relative;
