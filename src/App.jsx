@@ -149,7 +149,7 @@ function App() {
               />
             </div>
             <div className="s-intro__btn-download">
-              <a className="btn btn--stroke" href="#0">
+              <a className="btn btn--stroke" href="https://drive.google.com/file/d/1D6JHGPDGM8CRqJJEvCKAvRG33D6aWq9X/view?usp=sharing">
                 Get My CV
               </a>
             </div>
@@ -442,7 +442,7 @@ function App() {
                         <a href="mailto:eunicedr.lugtu@gmail.com">eunicedr.lugtu@gmail.com</a>
                       </li>
                       <li>
-                        <a href="tel:+6393002460">+639 300 2460</a>
+                        <a href="tel:09393002460">09393002460</a>
                       </li>
                     </ul>
                   </div>
@@ -456,7 +456,7 @@ function App() {
                 </a>
               </div>
               <div className="column xl-6 tab-12">
-                <a className="btn btn--stroke btn--large u-fullwidth" href="#0">
+                <a className="btn btn--stroke btn--large u-fullwidth" href="https://drive.google.com/file/d/1D6JHGPDGM8CRqJJEvCKAvRG33D6aWq9X/view?usp=sharing">
                   Get My CV
                 </a>
               </div>
