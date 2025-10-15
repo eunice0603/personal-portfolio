@@ -21,7 +21,7 @@ This portfolio consists of several key sections:
 - An available PDF version of my professional CV, summarizing my work experience, key accomplishments, and skills.
 - This section provides a quick way for potential employers to review my qualifications.
 
-### 5. Contact Page
+### 4. Contact Page
 - A page allowing visitors to reach out to me via email address, phone number, or through links to my professional social media profiles (Facebook and Github).
 - This ensures that anyone interested in connecting with me can do so easily.
 
@@ -51,27 +51,32 @@ This personal portfolio was built with the following technologies:
 
 ## Setup Instructions
 To run this project locally, follow the steps below:
+
 ### Prerequisites
 - Ensure you have Node.js and npm (or yarn) installed on your computer.
 
 ### Installation
-1. Clone this repository to your local machine:
-- git clone https://github.com/eunice0603/personal-portfolio.git
-2. Navigate to the project directory:
-- cd personal-portfolio
-3. Install dependencies:
-- npm install
-4. Start the development server:
-- npm run dev
-5. Open your browser and visit http://localhost:port (usually 5173 is the default port) to view the site locally.
+```bash
+# Clone this repository to your local machine:
+git clone https://github.com/eunice0603/personal-portfolio.git
+# Navigate to the project directory:
+cd personal-portfolio
+#  Install dependencies:
+npm install
+# Start the development server:
+npm run dev
+# Open your browser and visit http://localhost:port (usually 5173 is the default port) to view the site locally.
+```
 
 ### Deployment
 To deploy your portfolio to **GitHub Pages**:
-1. Build the project for production:
-- npm run build
-2. Push the build folder to your **GitHub Pages** branch (usually gh-pages):
-- npm run deploy
-3. If using **GitHub Pages**, follow the official guide for deployment.
+```bash
+# Build the project for production:
+npm run build
+# Push the build folder to your **GitHub Pages** branch (usually gh-pages):
+npm run deploy
+# If using **GitHub Pages**, follow the official guide for deployment.
+```
 
 ---
 
