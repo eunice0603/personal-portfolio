@@ -200,7 +200,7 @@ function App() {
                 </p>
                 <div className="grid-list-items s-about__blocks">
                   <div className="grid-list-items__item s-about__block">
-                    <h4 className="s-about__block-title">Experience</h4>
+                    <h4 className="s-about__block-title">Experiences</h4>
                     <ul className="s-about__list">
                       <li>
                         Note Application
