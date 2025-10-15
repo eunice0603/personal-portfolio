@@ -87,7 +87,7 @@ npm run deploy
 ---
 
 ## Live Demo
-You can access the live version of your portfolio once it's deployed:
+You can access the live version of my portfolio here:
 - **GitHub Pages URL**:  
 https://eunice0603.github.io/personal-portfolio
 
